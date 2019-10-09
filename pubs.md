@@ -7,7 +7,9 @@ permalink: /pubs/
 An up-to-date list of my publications can also be found on my <a href="https://scholar.google.com/citations?user=JFkDzroAAAAJ&hl=en">Google Scholar page</a>. In almost all papers listed, authorship follows the convention of alphabetical order of last names.
 
 
+
 <h3>Working Papers</h3>
+
 <ol>
 
 <li>
@@ -21,14 +23,13 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 
 <li><strong>Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives</strong>. with <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Shawn Zhao. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)</li><br>
 
-
-
 </ol>
 
 
 
 
 <h3>Conference Publications</h3>
+
 <ol>
 
 <li>
@@ -61,12 +62,15 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 
 <li>
 <b>Improved bound for online square-into-square packing</b>. <i>Proc. of the 12th Workshop on Approximation and Online Algorithms</i> (WAOA), pp 47-58, 2014. (<a href="http://www.cs.umd.edu/~bbrubach/Brubach-Online_Square_Packing_Long_Version.pdf">long version</a>)
-</li>
+</li><br>
 
 </ol>
 
 
+
+
 <h3>Journal Publications</h3>
+
 <ol>
 
 <li>

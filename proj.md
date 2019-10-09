@@ -42,7 +42,7 @@ One of my newer projects is studying important problems surrounding political re
     <strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
     </li>
     <li>
-    <strong>Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives</strong>. with <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Shawn Zhao. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
+    <strong>Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives (working paper)</strong>. with <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Shawn Zhao. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
     </li>
   </ul>
 
@@ -78,7 +78,7 @@ Online matching problem are ubiquitous in e-commerce. I study mostly stochastic 
     </li>
 
     <li>
-    <strong>Attenuate Locally, Win Globally: An Attenuation-based Framework for Online Stochastic Matching with Timeouts</strong>. with <a href="http://karthikabinavs.xyz">Karthik A. Sankararaman</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and <a href="https://sites.google.com/site/panxupi/">Pan Xu</a>. <i>Proc. of 16th International Conference on Autonomous Agents and Multiagent Systems</i> (AAMAS), 2017.
+    <b>Attenuate Locally, Win Globally: An Attenuation-based Framework for Online Stochastic Matching with Timeouts</b>. with <a href="http://karthikabinavs.xyz">Karthik A. Sankararaman</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and <a href="https://sites.google.com/site/panxupi/">Pan Xu</a>. <i>Algorithmica</i>, 2019
     </li>
 
     <li>
@@ -144,10 +144,10 @@ A lot of my work, including applications to redistricting and bioinformatics as 
   <ul>
 
     <li>
-    <strong>The Hard, the Soft, and the Probabilistic: Metric Clustering with Pairwise Constraints</strong>. with <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
+    <strong>The Hard, the Soft, and the Probabilistic: Metric Clustering with Pairwise Constraints (working paper)</strong>. with <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
     </li>
     <li>
-    <strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
+    <strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering (working paper)</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
     </li>
     <li>
     <strong>Better Greedy Sequence Clustering with Fast Banded Alignment</strong>. with <a href="http://www.cbcb.umd.edu/~jayg/">Jay Ghurye</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>. <i>Proc. Algorithms in Bioinformatics - 17th International Workshop</i> (WABI), 2017. (<a href="http://drops.dagstuhl.de/opus/volltexte/2017/7642/pdf/LIPIcs-WABI-2017-3.pdf">conference version</a>)
@@ -168,6 +168,6 @@ A lot of my work, including applications to redistricting and bioinformatics as 
 Bias Feedback
 </h2>
 
-In this recently started project, we are using AI give humans feedback on their implicit biases.
+In this recently started project, we are using AI to give humans feedback on their implicit biases.
 
 <strong>Collaborators:</strong> <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Shawn Zhao.

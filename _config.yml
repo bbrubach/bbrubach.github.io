@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Brian Brubach
-email: bbrubach AT cs DOT umd DOT edu
+email: lastname AT cs DOT umd DOT edu
 description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
 #  line in _config.yml. It will appear in your document head meta (for
@@ -34,6 +34,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: brianbrubach
+    googlescholar: brianbrubach
 
 
 # If you want to link only specific pages in your header, uncomment
