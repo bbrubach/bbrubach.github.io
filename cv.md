@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-Download my CV <a href="/files/Brubach-CV-2-16-19.pdf" target="_blank">here</a> (updated 2-16-19).
+Download my <a href="/files/Brubach-CV-10-9-19.pdf" target="_blank">CV here</a> (updated 10-9-19).
 
 
 
