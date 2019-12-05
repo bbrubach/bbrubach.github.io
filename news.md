@@ -9,6 +9,10 @@ permalink: /news/
 <h3>2019</h3>
 
 <ul>
+	<li>
+	<strong>November 16th, 2019:</strong>
+	Invited tutorial talk at the annual Workshop on String Algorithms in Bioinformatics (StringBio 2019) and session chair.
+	</li><br>
 
 	<li>
 	<strong>Fall, 2019:</strong>
