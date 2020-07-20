@@ -6,7 +6,7 @@ permalink: /news/
 
 
 
-<h3>2019</h3>
+<h3>2020</h3>
 
 <ul>
 
@@ -21,7 +21,7 @@ permalink: /news/
 	</li><br>
 
 	<li>
-	<strong>July 16th, 2019:</strong>
+	<strong>July 16th, 2020:</strong>
 	Presented A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering at ICML 2020. This was joint work with Darshan Chakrabarti, John P. Dickerson, Samir Khuller, Aravind Srinivasan, and Leonidas Tsepenekas.
 	</li><br>
 
@@ -34,6 +34,14 @@ permalink: /news/
 	<strong>June 1st, 2020:</strong>
 	Successfully defended PhD.
 	</li><br>
+
+</ul>
+
+
+
+<h3>2019</h3>
+
+<ul>
 
 	<li>
 	<strong>November 16th, 2019:</strong>
