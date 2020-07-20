@@ -9,7 +9,7 @@ layout: home
 <img src="files/BrianWeb.JPG" style="width: 200px">
 
 
-I’m a PhD candidate in computer science at the University of Maryland, College Park. My research is on algorithms and theory with applications in e-commerce, fairness in machine learning, mechanism design for social good, and bioinformatics. My co-advisors are Professor <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Professor <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>. My broad research interests are summarized below with more detailed information on my <a href="/research">research page</a>.
+I’m an Assistant Professor in the <a href="https://www.wellesley.edu/cs">Computer Science Department</a> at <a href="https://www.wellesley.edu">Wellesley College</a>. My research is on algorithms and theory with applications in e-commerce, fairness in machine learning, mechanism design for social good, and bioinformatics. I did my PhD candidate in computer science at the University of Maryland, College Park with co-advisors <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>. My broad research interests are summarized below with more detailed information on my <a href="/research">research page</a>.
 
 
 
@@ -51,7 +51,7 @@ I’m a PhD candidate in computer science at the University of Maryland, College
 
 <h2>Professional service</h2>
 
-Program Committee for AAAI-20 main track and AI for Social Impact (AISI) track. Reviews for CPM, Networks, TALG, WAOA, and WABI.
+Program Committee for AAAI-20 main track and AI for Social Impact (AISI) track, ICML 2020, and NeurIPS 2020. Reviews for FOCS, ESA, CPM, Networks, TALG, WAOA, and WABI.
 
 
 

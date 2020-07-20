@@ -38,12 +38,16 @@ One of my newer projects is studying important problems surrounding political re
 
 <h3>Representative work</h3>
   <ul>
-    <li>
-    <strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
-    </li>
-    <li>
-    <strong>Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives (working paper)</strong>. with <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Shawn Zhao. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
-    </li>
+
+
+  <li>
+  <strong>Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives</strong>. with <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Shawn Zhao. <i>ACM Conference on Economics and Computation</i> (EC), 2020. (<a href="/files/Paper-MeddingMetrics-EC20.pdf">conference version</a>)
+  </li>
+
+  <li>
+  <strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. <i>International Conference on Machine Learning</i> (ICML), 2020. (<a href="/files/Paper-PairFair-ICML20.pdf">conference version</a>)
+  </li>
+
   </ul>
 
 
@@ -119,7 +123,7 @@ I design and implement algorithms for metagenomics and genomics. My applied work
     </li>
 
     <li>
-    <strong>Further Improvement in Approximating the Maximum Duo-Preservation String Mapping Problem</strong>. <i>Proc. Algorithms in Bioinformatics - 16th International Workshop</i> (WABI), pp 52-64, 2016. (<a href="http://www.cs.umd.edu/~bbrubach/WABI16-MPSM-Slides.pdf">slides</a>)
+    <strong>Further Improvement in Approximating the Maximum Duo-Preservation String Mapping Problem</strong>. <i>Proc. Algorithms in Bioinformatics - 16th International Workshop</i> (WABI), 2016. (<a href="http://www.cs.umd.edu/~bbrubach/WABI16-MPSM-Slides.pdf">slides</a>)
     </li>
     
   </ul>
@@ -146,15 +150,20 @@ A lot of my work, including applications to redistricting and bioinformatics as 
     <li>
     <strong>The Hard, the Soft, and the Probabilistic: Metric Clustering with Pairwise Constraints (working paper)</strong>. with <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
     </li>
-    <li>
-    <strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering (working paper)</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)
-    </li>
+  <li>
+  <strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. <i>International Conference on Machine Learning</i> (ICML), 2020. (<a href="/files/Paper-PairFair-ICML20.pdf">conference version</a>)
+  </li>
     <li>
     <strong>Better Greedy Sequence Clustering with Fast Banded Alignment</strong>. with <a href="http://www.cbcb.umd.edu/~jayg/">Jay Ghurye</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>. <i>Proc. Algorithms in Bioinformatics - 17th International Workshop</i> (WABI), 2017. (<a href="http://drops.dagstuhl.de/opus/volltexte/2017/7642/pdf/LIPIcs-WABI-2017-3.pdf">conference version</a>)
     </li>
+    <li>
+    <strong>Probabilistic Fair Clustering</strong>. with Seyed A. Esmaeili, Leonidas Tsepenekas, and <a href="http://jpdickerson.com/">John P. Dickerson</a>. (<em>under review</em>) (<a href="https://arxiv.org/abs/2006.10916">arxiv version</a>)
+    </li>
+
+
   </ul>
 
-<strong>Collaborators:</strong> Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cbcb.umd.edu/~jayg/">Jay Ghurye</a>, Nathaniel Grammel, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, Tu Luan, <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>, and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>.
+<strong>Collaborators:</strong> Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, Seyed A. Esmaeili, <a href="http://www.cbcb.umd.edu/~jayg/">Jay Ghurye</a>, Nathaniel Grammel, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, Tu Luan, <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>, and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>.
 
 
 

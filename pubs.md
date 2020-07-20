@@ -19,9 +19,12 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 
   <li><strong>The Hard, the Soft, and the Probabilistic: Metric Clustering with Pairwise Constraints</strong>. with <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)</li><br>
 
-<li><strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)</li><br>
 
-<li><strong>Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives</strong>. with <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Shawn Zhao. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)</li><br>
+<li>
+<strong>Probabilistic Fair Clustering</strong>. with Seyed A. Esmaeili, Leonidas Tsepenekas, and <a href="http://jpdickerson.com/">John P. Dickerson</a>. (<em>under review</em>) (<a href="https://arxiv.org/abs/2006.10916">arxiv version</a>)
+</li><br>
+
+
 
 </ol>
 
@@ -31,6 +34,12 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 <h3>Conference Publications</h3>
 
 <ol>
+
+<li><strong>Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives</strong>. with <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a> and Shawn Zhao. <i>ACM Conference on Economics and Computation</i> (EC), 2020. (<a href="/files/Paper-MeddingMetrics-EC20.pdf">conference version</a>)</li><br>
+
+<li>
+<strong>A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. <i>International Conference on Machine Learning</i> (ICML), 2020. (<a href="/files/Paper-PairFair-ICML20.pdf">conference version</a>)
+</li><br>
 
 <li>
 <b>Fast Matching-based Approximations for Maximum Duo-preservation String Mapping and its Weighted Variant</b>. <i>Proc. 29th Annual Symposium on Combinatorial Pattern Matching</i> (CPM), 2018. (<a href="http://drops.dagstuhl.de/opus/volltexte/2018/8706/pdf/LIPIcs-CPM-2018-5.pdf">conference version</a>)
@@ -53,7 +62,7 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 </li><br>
 
 <li>
-<b>Further Improvement in Approximating the Maximum Duo-Preservation String Mapping Problem</b>. <i>Proc. Algorithms in Bioinformatics - 16th International Workshop</i> (WABI), pp 52-64, 2016. (<a href="http://www.cs.umd.edu/~bbrubach/WABI16-MPSM-Slides.pdf">slides</a>)
+<b>Further Improvement in Approximating the Maximum Duo-Preservation String Mapping Problem</b>. <i>Proc. Algorithms in Bioinformatics - 16th International Workshop</i> (WABI), 2016. (<a href="http://www.cs.umd.edu/~bbrubach/WABI16-MPSM-Slides.pdf">slides</a>)
 </li><br>
 
 <li>
@@ -61,7 +70,7 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 </li><br>
 
 <li>
-<b>Improved bound for online square-into-square packing</b>. <i>Proc. of the 12th Workshop on Approximation and Online Algorithms</i> (WAOA), pp 47-58, 2014. (<a href="http://www.cs.umd.edu/~bbrubach/Brubach-Online_Square_Packing_Long_Version.pdf">long version</a>)
+<b>Improved bound for online square-into-square packing</b>. <i>Proc. of the 12th Workshop on Approximation and Online Algorithms</i> (WAOA), 2014. (<a href="http://www.cs.umd.edu/~bbrubach/Brubach-Online_Square_Packing_Long_Version.pdf">long version</a>)
 </li><br>
 
 </ol>
@@ -74,7 +83,11 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 <ol>
 
 <li>
-<b>Attenuate Locally, Win Globally: An Attenuation-based Framework for Online Stochastic Matching with Timeouts</b>. with <a href="http://karthikabinavs.xyz">Karthik A. Sankararaman</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and <a href="https://sites.google.com/site/panxupi/">Pan Xu</a>. <i>Algorithmica</i>, 2019
+<b>Online stochastic matching: New algorithms and bounds</b>. with <a href="http://karthikabinavs.xyz">Karthik A. Sankararaman</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and <a href="https://sites.google.com/site/panxupi/">Pan Xu</a>. <i>Algorithmica</i>, 2020. (update of our ESA 2016 paper)
+</li><br>
+
+<li>
+<b>Attenuate Locally, Win Globally: An Attenuation-based Framework for Online Stochastic Matching with Timeouts</b>. with <a href="http://karthikabinavs.xyz">Karthik A. Sankararaman</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and <a href="https://sites.google.com/site/panxupi/">Pan Xu</a>. <i>Algorithmica</i>, 2019.
 </li><br>
 
 <li>

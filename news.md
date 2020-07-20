@@ -9,6 +9,32 @@ permalink: /news/
 <h3>2019</h3>
 
 <ul>
+
+	<li>
+	<strong>July 20th, 2020:</strong>
+	Presented The Relationship between Gerrymandering Classification and Voter Incentives (adapted from our EC 2020 paper) at the AI for Social Good Harvard CRCS Workshop.
+	</li><br>
+
+	<li>
+	<strong>July 16th, 2020:</strong>
+	Co-author Shawn Zhao presented our work with Aravind Srinivasan, Meddling Metrics: the Effects of Measuring and Constraining Partisan Gerrymandering on Voter Incentives, at EC 2020.
+	</li><br>
+
+	<li>
+	<strong>July 16th, 2019:</strong>
+	Presented A Pairwise Fair and Community-preserving Approach to <i>k</i>-Center Clustering at ICML 2020. This was joint work with Darshan Chakrabarti, John P. Dickerson, Samir Khuller, Aravind Srinivasan, and Leonidas Tsepenekas.
+	</li><br>
+
+	<li>
+	<strong>July, 2020:</strong>
+	Started as an Assistant Professor at Wellesley College!
+	</li><br>
+
+	<li>
+	<strong>June 1st, 2020:</strong>
+	Successfully defended PhD.
+	</li><br>
+
 	<li>
 	<strong>November 16th, 2019:</strong>
 	Invited tutorial talk at the annual Workshop on String Algorithms in Bioinformatics (StringBio 2019) and session chair.
