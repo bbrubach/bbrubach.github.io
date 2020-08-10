@@ -13,11 +13,12 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 <ol>
 
 <li>
-<strong>Vertex-weighted Online Stochastic Matching with Patience Constraints</strong>. with Nathaniel Grammel and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>. (<em>under review</em>) (<a href="https://arxiv.org/abs/1907.03963">arxiv version</a>)
+<strong>Vertex-weighted Online Stochastic Matching with Patience Constraints</strong>. with Nathaniel Grammel and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>. (<em>under review</em>) (<a href="https://arxiv.org/abs/1907.03963">arxiv version</a> is outdated, update coming soon)
 </li><br>
 
 
-  <li><strong>The Hard, the Soft, and the Probabilistic: Metric Clustering with Pairwise Constraints</strong>. with <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. (<em>under review</em>) (<a href="">arxiv version coming soon</a>)</li><br>
+  <li><strong>The Hard, the Soft, and the Probabilistic: Metric Clustering with Pairwise Constraints</strong>. with Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas. <!--(<em>under review</em>) (<a href="">arxiv version coming soon</a>)-->
+</li><br>
 
 
 <li>

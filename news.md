@@ -10,6 +10,12 @@ permalink: /news/
 
 <ul>
 
+
+	<li>
+	<strong>July 22nd and 23rd, 2020:</strong>
+	Guest lectures on NP-hardness and AI bias/fairness in ML for the CompSciConnect summer camp at UMD. 
+	</li><br>
+
 	<li>
 	<strong>July 20th, 2020:</strong>
 	Presented The Relationship between Gerrymandering Classification and Voter Incentives (adapted from our EC 2020 paper) at the AI for Social Good Harvard CRCS Workshop.

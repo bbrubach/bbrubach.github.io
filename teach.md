@@ -4,7 +4,27 @@ title: Teaching
 permalink: /teach/
 ---
 
-Below is a summary of some highlights from my teaching experience.
+Below are some highlights from my teaching experience.
+
+
+
+<br>
+<hr>
+<br>
+
+
+<h3>Teaching at Wellesley</h3>
+
+<p>
+I'm excited to be teaching my first courses at Wellesley College this fall.
+</p>
+
+<p>
+CS 115 Computing for the Socio-Techno Web (term 1) <br>
+CS 231 Fundamental Algorithms (term 2) 
+</p>
+
+
 
 <br>
 <hr>
