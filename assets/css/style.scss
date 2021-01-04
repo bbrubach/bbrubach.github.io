@@ -15,3 +15,25 @@ h2 {
 h3, h4 {
   color: #9030b0;
 }
+
+.boxnote {
+  background-color: #c8d8ff;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.boxnote-heading {
+  font-size: 1.5em;
+}
+
+ol.list-spacing li {
+	margin-bottom: 0.75em;
+}
+
+ul.list-spacing li {
+	margin-bottom: 0.75em;
+}

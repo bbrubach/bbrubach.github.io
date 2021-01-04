@@ -16,12 +16,12 @@ Below are some highlights from my teaching experience.
 <h3>Teaching at Wellesley</h3>
 
 <p>
-I'm excited to be teaching my first courses at Wellesley College this fall.
+I'm excited to be teaching my first courses at Wellesley College in the 20-21 academic year.
 </p>
 
 <p>
-CS 115 Computing for the Socio-Techno Web (term 1) <br>
-CS 231 Fundamental Algorithms (term 2) 
+CS 115 Computing for the Socio-Techno Web (Term 1) <br>
+CS 231 Fundamental Algorithms (Terms 2, 3, and 4)
 </p>
 
 
@@ -82,8 +82,3 @@ I am currently a teaching assistant for <a href="https://cmsc320.github.io/">Int
 <h3>Teaching artist work</h3>
 
 Prior to studying computer science, I worked as a teaching artist in Chicago Public Schools through Columbia College Chicago's Center for Community Arts Partnerships (CCAP), a recipient of the <a href="https://nasaa-arts.org/nasaa_research/national-arts-humanities-youth-program-awards/">National Arts and Humanities Youth Program Award</a>. During the school day, I partnered with classroom teachers to develop and present arts-integration lessons over several weeks that merged filmmaking with traditional subjects such as math and writing. The lessons were still required to meet state and federal education standards for the traditional subjects. In the afterschool setting, I led afterschool classes on filmmaking that spanned the entire school year. I got the opportunity to work with a broad range of students from 3rd to 8th grade, including working in a special education classroom. I have lots of fun stories about the crazy ideas the kids came up with.
-
-
-
-
-

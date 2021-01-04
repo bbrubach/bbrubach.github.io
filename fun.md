@@ -16,7 +16,7 @@ Here are some other ways I spend my time when not doing research or teaching.
 
 
 <p>
-	I am a big believer in the benefits of building community. I am the president of a grad student organization in the University of Maryland Computer Science Department (CS GradCo, formerly ExecCo). For three years, I've organized a monthly board game night for grad students that draws 20-50+ attendees. I also like organizing lunches and reading groups to bring grad students together.
+	I am a big believer in the benefits of building community. I was the president of a grad student organization in the University of Maryland Computer Science Department (CS GradCo, formerly ExecCo). For three years, I organized a monthly board game night for CS grad students. 
 </p>
 
 <!--
@@ -39,7 +39,7 @@ Here are some other ways I spend my time when not doing research or teaching.
 </p>
 
 <p>
-	I am a mentor in <a href="https://sites.google.com/view/tabletop-mentorship-program/">Tabletop Mentorship Program</a> to support new board game designers. Soon, I plan to start blogging about board game design and the many lessons I've learned so far.
+	I am a mentor in <a href="https://sites.google.com/view/tabletop-mentorship-program/">Tabletop Mentorship Program</a> to support new board game designers. Someday, I plan to start blogging about board game design and the many lessons I've learned so far.
 </p>
 
 
