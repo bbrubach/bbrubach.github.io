@@ -16,13 +16,16 @@ Below are some highlights from my teaching experience.
 <h3>Teaching at Wellesley</h3>
 
 <p>
-I'm excited to be teaching my first courses at Wellesley College in the 20-21 academic year.
+  So far, I've taught the following courses at Wellesley.
+  I'm happy answer any questions students have about these courses
+  or what I teach in them. 
 </p>
 
-<p>
-CS 115 Computing for the Socio-Techno Web (Term 1) <br>
-CS 231 Fundamental Algorithms (Terms 2, 3, and 4)
-</p>
+<ul>
+  <li>CS 115 Computing for the Socio-Techno Web </li>
+  <li>CS 231 Fundamental Algorithms</li>
+  <li>CS 331 Advanced Algorithms</li>
+</ul>
 
 
 

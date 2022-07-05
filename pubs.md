@@ -4,28 +4,24 @@ title: Publications
 permalink: /pubs/
 ---
 
-An up-to-date list of my publications can also be found on my <a href="https://scholar.google.com/citations?user=JFkDzroAAAAJ&hl=en">Google Scholar page</a>. In almost all papers listed, authorship follows the convention of alphabetical order of last names.
+<p>
+An up-to-date list of my publications can also be found on my <a href="https://scholar.google.com/citations?user=JFkDzroAAAAJ&hl=en">Google Scholar page</a>. In most papers listed, authorship follows the convention of alphabetical order of last names.
+</p>
 
+<p>
+* indicates undergraduate or high school student at time of research.
+</p>
 
 
 <h3>Working Papers</h3>
 
 <ol class="list-spacing">
 
-  <li><strong>Vertex-weighted Online Stochastic Matching with Patience Constraints</strong><br>
-    Brian Brubach, Nathaniel Grammel, <a href="http://www.columbia.edu/~wm2428/">Will Ma</a>,
-    and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a><br>
-    (<a href="https://arxiv.org/abs/1907.03963">arxiv version</a> is outdated, update coming soon)
+  <li><strong>Centralized Fairness for Redistricting</strong><br>
+    Seyed Esmaeili, Hayley Grape*, and Brian Brubach<br>
+    (<a href="https://arxiv.org/abs/2203.00872">arxiv version</a>)
   </li>
 
-  <li><strong>Approximation Algorithms for Radius-Based, Two-Stage Stochastic
-    Clustering Problems with Budget Constraints</strong><br>
-    Brian Brubach, Nathaniel Grammel,
-    <a href="https://sites.google.com/site/davidgharriswebsite/home">David G Harris</a>,
-      <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>,
-      Leonidas Tsepenekas, and Anil Vullikanti<br>
-    (<a href="https://arxiv.org/pdf/2008.03325.pdf">arxiv version</a>)
-  </li>
 
   <li><strong>Improved Approximation Algorithms for Stochastic-Matching Problems</strong><br>
     Marek Adamczyk, Brian Brubach, <a href="http://people.idsia.ch/~grandoni/">Fabrizio Grandoni</a>,
@@ -44,6 +40,54 @@ An up-to-date list of my publications can also be found on my <a href="https://s
 
 <ol class="list-spacing">
 
+<li><strong>Characterizing Properties and Trade-offs of Centralized Delegation Mechanisms in Liquid Democracy</strong><br>
+  Brian Brubach, Audrey Ballarin*, and Heeba Nazeer*<br>
+  <em>ACM Conference on Fairness, Accountability, and Transparency</em> (FAccT), 2022
+</li>
+
+
+<li><strong>Fair Labeled Clustering</strong><br>
+  Seyed Esmaeili, Sharmila Duppala, <a href="http://jpdickerson.com/">John P. Dickerson</a>, and Brian Brubach<br>
+  <em>SIGKDD Conference on Knowledge Discovery and Data Mining</em> (KDD), 2022
+</li>
+
+
+<li><strong>Improved guarantees for offline stochastic matching via new ordered contention resolution schemes</strong><br>
+  Brian Brubach, Nathaniel Grammel, <a href="http://www.columbia.edu/~wm2428/">Will Ma</a>,
+  and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a><br>
+  <em>Conference on Neural Information Processing Systems</em> (NeurIPS), 2021
+</li>
+
+
+<li><strong>Fair clustering under a bounded cost</strong><br>
+  Seyed Esmaeili, Brian Brubach, <a href="http://www.cs.umd.edu/~srin/">
+  Aravind Srinivasan</a>, and
+  <a href="http://jpdickerson.com/">John P. Dickerson</a><br>
+  <em>Conference on Neural Information Processing Systems</em> (NeurIPS), 2021
+</li>
+
+
+<li><strong>It's COMPASlicated: The Messy Relationship between RAI Datasets and Algorithmic Fairness Benchmarks</strong><br>
+  Michelle Bao*, Angela Zhou, Samantha Zottola, Brian Brubach, Sarah Desmarais, Aaron Horowitz, Kristian Lum, and Suresh Venkatasubramanian<br>
+  <em>Conference on Neural Information Processing Systems Track on Datasets and Benchmarks</em> (NeurIPS), 2021
+</li>
+
+
+<li><strong>Follow your star: New frameworks for online stochastic matching with known and unknown patience</strong><br>
+  Brian Brubach, Nathaniel Grammel, <a href="http://www.columbia.edu/~wm2428/">Will Ma</a>,
+  and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a><br>
+  <em>International Conference on Artificial Intelligence and Statistics</em> (AISTATS), 2021
+</li>
+
+
+<li><strong>Approximating Two-Stage Stochastic Supplier Problems</strong><br>
+  Brian Brubach, Nathaniel Grammel,
+  <a href="https://sites.google.com/site/davidgharriswebsite/home">David G Harris</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>,
+  Leonidas Tsepenekas, and Anil Vullikanti<br>
+  <em>Approximation, Randomization, and Combinatorial Optimization. Algorithms and Techniques </em> (APPROX/RANDOM), 2021
+</li>
+
+
 <li><strong>Fairness, Semi-Supervised Learning, and More: A General Framework for Clustering with
 Stochastic Pairwise Constraints</strong><br>
   Brian Brubach, Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>,
@@ -60,7 +104,7 @@ Stochastic Pairwise Constraints</strong><br>
 <li><strong>Meddling Metrics: the Effects of Measuring and Constraining
   Partisan Gerrymandering on Voter Incentives</strong><br>
   Brian Brubach, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>,
-  and Shawn Zhao<br>
+  and Shawn Zhao*<br>
   <em>ACM Conference on Economics and Computation</em> (EC), 2020
   (<a href="/files/Paper-MeddingMetrics-EC20.pdf">conference version</a>)<br>
   Also presented at <em>Harvard CRCS Workshop on AI for Social Good</em>, 2020
@@ -69,7 +113,7 @@ Stochastic Pairwise Constraints</strong><br>
 
 <li><strong>A Pairwise Fair and Community-preserving Approach to <em>k</em>-Center
   Clustering</strong><br>
-  Brian Brubach, Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>,
+  Brian Brubach, Darshan Chakrabarti*, <a href="http://jpdickerson.com/">John P. Dickerson</a>,
   <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>,
   <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and
   Leonidas Tsepenekas<br>

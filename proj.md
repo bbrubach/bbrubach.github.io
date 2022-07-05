@@ -8,7 +8,7 @@ permalink: /research/
 
 Much of my research is captured by the following ongoing projects.
 On the theoretical computer science side, my focus is primarily on matching, clustering, and string algorithms with a special interest in stochastic problems.
-I consider these problems in the context of several application areas including e-commerce, fairness, accountability, and transparency in automated systems, mechanism design for social good, and bioinformatics.
+I consider these problems in the context of several application areas including e-commerce, democratic systems, fairness, accountability, and transparency, mechanism design for social good, and bioinformatics.
 
 
 
@@ -22,22 +22,27 @@ I consider these problems in the context of several application areas including 
 Redistricting and gerrymandering
 </h2>
 
-One of my newer projects is studying important problems surrounding political redistricting and gerrymandering. My work targets three broad areas:
+I study many important problems surrounding political redistricting and gerrymandering. My work targets three broad areas:
 <ol>
   <li>
-    Developing measures to evaluate districts and detect gerrymandering (especially partisan gerrymandering) in ways that can inform legal standards.
-  </li>
-  <li>
-    Evaluating the measures themselves (measuring the measures) and their longterm consequences (e.g., effects on voter incentives).
+    Evaluating the effects and longterm consequences of measuring gerrymandering and regulated redistricting (e.g., effects on voter incentives).
   </li>
   <li>
     Designing algorithmic solutions to generate "fairer" district maps with an eye toward fairness to individuals and communities rather than political parties.
+  </li>
+  <li>
+    Designing alternative district-based systems (e.g., multi-member districts) and exploring what can be achieved in these systems.
   </li>
 </ol>
 
 
 <h3>Representative work</h3>
   <ul>
+
+  <li><strong>Centralized Fairness for Redistricting</strong><br>
+    Seyed Esmaeili, Hayley Grape, and Brian Brubach<br>
+    (<a href="https://arxiv.org/abs/2203.00872">arxiv version</a>)
+  </li>
 
   <li><strong>Meddling Metrics: the Effects of Measuring and Constraining
     Partisan Gerrymandering on Voter Incentives</strong><br>
@@ -62,16 +67,6 @@ One of my newer projects is studying important problems surrounding political re
   </ul>
 
 
-<strong>Collaborators:</strong> Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Shawn Zhao.
-
-
-
-
-<!--<img src="../files/BrubachSquarePicture.jpeg" style="width: 200px">
--->
-
-
-
 
 <br>
 <hr>
@@ -88,10 +83,10 @@ Online matching problem are ubiquitous in e-commerce. I study mostly stochastic 
 <h3>Representative work</h3>
 <ul>
 
-  <li><strong>Vertex-weighted Online Stochastic Matching with Patience Constraints</strong><br>
+  <li><strong>Follow your star: New frameworks for online stochastic matching with known and unknown patience</strong><br>
     Brian Brubach, Nathaniel Grammel, <a href="http://www.columbia.edu/~wm2428/">Will Ma</a>,
     and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a><br>
-    (<a href="https://arxiv.org/abs/1907.03963">arxiv version</a> is outdated, update coming soon)
+    <em>International Conference on Artificial Intelligence and Statistics</em> (AISTATS), 2021
   </li>
 
   <li><strong>Attenuate Locally, Win Globally: An Attenuation-based Framework
@@ -112,10 +107,6 @@ Online matching problem are ubiquitous in e-commerce. I study mostly stochastic 
 </ul>
 
 
-<strong>Collaborators:</strong> Nathaniel Grammel, <a href="http://www.columbia.edu/~wm2428/">Will Ma</a>,
-<a href="http://karthikabinavs.xyz">Karthik A. Sankararaman</a>,
-<a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and
-<a href="https://sites.google.com/site/panxupi/">Pan Xu</a>.
 
 
 <br>
@@ -132,6 +123,18 @@ A lot of my work, including applications to redistricting and bioinformatics as 
 
 <h3>Representative work</h3>
   <ul>
+
+    <li><strong>Fair Labeled Clustering</strong><br>
+      Seyed Esmaeili, Sharmila Duppala, <a href="http://jpdickerson.com/">John P. Dickerson</a>, and Brian Brubach<br>
+      <em>SIGKDD Conference on Knowledge Discovery and Data Mining</em> (KDD), 2022
+    </li>
+
+    <li><strong>Fair clustering under a bounded cost</strong><br>
+      Seyed Esmaeili, Brian Brubach, <a href="http://www.cs.umd.edu/~srin/">
+      Aravind Srinivasan</a>, and
+      <a href="http://jpdickerson.com/">John P. Dickerson</a><br>
+      <em>Conference on Neural Information Processing Systems</em> (NeurIPS), 2021
+    </li>
 
     <li><strong>Fairness, Semi-Supervised Learning, and More: A General Framework for Clustering with
     Stochastic Pairwise Constraints</strong><br>
@@ -167,8 +170,33 @@ A lot of my work, including applications to redistricting and bioinformatics as 
 
   </ul>
 
-<strong>Collaborators:</strong> Darshan Chakrabarti, <a href="http://jpdickerson.com/">John P. Dickerson</a>, Seyed A. Esmaeili, <a href="http://www.cbcb.umd.edu/~jayg/">Jay Ghurye</a>, Nathaniel Grammel, <a href="http://www.cs.umd.edu/users/samir/">Samir Khuller</a>, Tu Luan, <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Leonidas Tsepenekas.
 
+
+
+
+  <br>
+  <hr>
+  <br>
+
+  <h2>
+  Emerging democratic systems and e-democracy
+  </h2>
+
+  I study computational/algorithmic components of emerging democratic
+  systems such as liquid democracy. This includes designing new
+  algorithms for these systems as well as evaluating existing algorithms
+  from a fairness, accountability, and transparency perspective.
+
+  <h3>Representative work</h3>
+
+  <ul>
+
+  <li><strong>Characterizing Properties and Trade-offs of Centralized Delegation Mechanisms in Liquid Democracy</strong><br>
+    Brian Brubach, Audrey Ballarin, and Heeba Nazeer<br>
+    <em>ACM Conference on Fairness, Accountability, and Transparency</em> (FAccT), 2022
+  </li>
+
+  </ul>
 
 <br>
 <hr>
@@ -217,21 +245,3 @@ I design and implement algorithms for metagenomics and genomics. My applied work
     </li>
 
   </ul>
-
-
-<strong>Collaborators:</strong> <a href="http://www.cbcb.umd.edu/~jayg/">Jay Ghurye</a>, Tu Luan, <a href="http://www.cbcb.umd.edu/~mpop/">Mihai Pop</a>, and <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>.
-
-
-<br>
-<hr>
-<br>
-
-
-
-<h2>
-Bias Feedback
-</h2>
-
-In this recently started project, we are using AI to give humans feedback on their implicit biases.
-
-<strong>Collaborators:</strong> <a href="http://jpdickerson.com/">John P. Dickerson</a>, <a href="http://www.cs.umd.edu/~srin/">Aravind Srinivasan</a>, and Shawn Zhao.
